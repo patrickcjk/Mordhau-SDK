@@ -1,9 +1,8 @@
 # Mordhau-SDK
 
-Important files
+**Important files**
 
-Mordhau_classes.h
-Mordhau_structs.h
-
-Engine_classes.h
-Engine_structs.h
+> Mordhau_classes.h
+> Mordhau_structs.h
+> Engine_classes.h
+> Engine_structs.h
